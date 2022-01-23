@@ -3,4 +3,4 @@
 mini game made for trAIner application.
 
 External Packages used:
- - [Asus4-tflite](https://www.theengineeringprojects.com/2015/02/ultrasonic-sensor-library-proteus.html)
+ - [Asus4-tflite](https://github.com/asus4/tf-lite-unity-sample)
