@@ -1,6 +1,9 @@
 # traAIner-mini-game
 
-mini game made for trAIner application.
+mini games made for [trAIner](sssssssssssssssssss) application using Unity. Pose estimation model is already in the project. 
 
-External Packages used:
+In order to build this project, you need,
+ - Unity 
+
+External packages used, 
  - [Asus4-tflite](https://github.com/asus4/tf-lite-unity-sample)
