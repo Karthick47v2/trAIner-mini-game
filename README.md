@@ -1,6 +1,6 @@
 # traAIner-mini-game
 
-mini games made for [trAIner](sssssssssssssssssss) application using Unity. Pose estimation model is already in the project. 
+mini games made for [trAIner](https://github.com/Karthick47v2/trAIner) application using Unity. Pose estimation model is already in the project. 
 
 In order to build this project, you need,
  - Unity 
