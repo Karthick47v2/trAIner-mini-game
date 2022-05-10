@@ -7,3 +7,7 @@ In order to build this project, you need,
 
 External packages used, 
  - [Asus4-tflite](https://github.com/asus4/tf-lite-unity-sample)
+
+Technologies and Frameworks:
+- Unity(C#)
+- Tensorflow lite
